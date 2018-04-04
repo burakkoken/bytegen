@@ -170,5 +170,41 @@ public class ByteVector {
         data = newDataArray;
     }
 
+    /**
+     * Get the byte data.
+     *
+     * @return byte data
+     */
+    public byte[] getData() {
+        return data;
+    }
+
+    /**
+     * Set the byte data.
+     *
+     * @param data bytes
+     */
+    public void setData(byte[] data) {
+        this.data = data;
+    }
+
+    /**
+     * Get the actual size of the byte data.
+     *
+     * @return the actual size of the byte data.
+     */
+    public int getActualSize() {
+        return actualSize;
+    }
+
+    /**
+     * Set the actual size of the byte data.
+     *
+     * @param actualSize the actual size of the byte data
+     */
+    public void setActualSize(int actualSize) {
+        this.actualSize = actualSize;
+    }
+
 }
 
