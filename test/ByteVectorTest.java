@@ -1,4 +1,4 @@
-import org.codnect.bytegen.ByteVector;
+import org.codnect.bytegen.util.ByteVector;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

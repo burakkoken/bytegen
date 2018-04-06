@@ -1,4 +1,6 @@
-package org.codnect.bytegen;
+package org.codnect.bytegen.core;
+
+import org.codnect.bytegen.util.ByteVector;
 
 import java.util.HashMap;
 import java.util.Map;

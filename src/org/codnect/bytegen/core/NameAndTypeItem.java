@@ -1,4 +1,4 @@
-package org.codnect.bytegen;
+package org.codnect.bytegen.core;
 
 /**
  * @author Burak Koken

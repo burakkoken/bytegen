@@ -1,4 +1,4 @@
-package org.codnect.bytegen;
+package org.codnect.bytegen.core;
 
 /**
  * This class contains the values of the access flags.

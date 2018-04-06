@@ -3,7 +3,7 @@ package org.codnect.bytegen;
 /**
  * @author Burak Koken
  */
-public class Main {
+public class ByteCodeGenerator {
 
     public static void main(String[] args) {
 

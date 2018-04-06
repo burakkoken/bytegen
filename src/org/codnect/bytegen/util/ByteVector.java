@@ -1,4 +1,4 @@
-package org.codnect.bytegen;
+package org.codnect.bytegen.util;
 
 /**
  * ByteVector holds byte data. If necessary, it
