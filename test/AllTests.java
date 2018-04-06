@@ -6,7 +6,8 @@ import org.junit.runners.Suite;
  */
 @RunWith(Suite.class)
 @Suite.SuiteClasses({
-        ByteVectorTest.class
+        ByteVectorTest.class,
+        ConstantPoolTest.class
 })
 public class AllTests {
 
